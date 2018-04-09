@@ -1,3 +1,8 @@
+Paul Aguadisch
+paul.aguadisch@gmail.com
++33 7 69 64 24 35
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
